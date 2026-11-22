@@ -1,4 +1,4 @@
-# 🤖 AI Engineer Home Assignment: Vulnerability Remediation Challenge
+# 🤖 AI Engineer Technical Assignment: Vulnerability Remediation Challenge
 
 
 ## 📋 Overview
@@ -81,22 +81,6 @@ Choose one of these real-world projects to test your agent:
 
 ---
 
-## 📊 Evaluation
-
-### Technical Implementation
-- AI system architecture and design quality
-- Agent implementation and code quality
-- AI reasoning framework and decision-making logic
-- Understanding of container security and vulnerability management
-
-### Understanding & Explanation
-- Technology choices and rationale
-- Scalability considerations
-- Production deployment strategy
-- AI limitations and safeguards
-
----
-
 ## 📝 Deliverables
 
 - **Part 1**: Architecture document (PDF) with clear diagrams and explanations
@@ -107,7 +91,16 @@ Choose one of these real-world projects to test your agent:
   		- Your design decisions and trade-offs
 		- Any test results or sample outputs
 
-**Note:** You will present your architecture and demo your agent during your interview.
+You'll walk us through your work in your technical interview.
+
+---
+
+## 💡 Reminders
+
+- Focus on quality of reasoning over volume.
+- Don't make this production-grade; you can do things that don't scale.
+- AI tools are welcome. Tell us what you used them for and where they helped or hurt.
+- If you hit a wall, write down what you tried and move on.
 
 ---
 
@@ -118,5 +111,8 @@ Choose one of these real-world projects to test your agent:
 
 ---
 
-Have fun! For all questions and clarifications – don't hesitate to reach out 🙂  
-Good luck! 🚀
+## ❓ Questions
+
+Have fun! For any question or clarification, reach out without a second thought 🙂
+
+**Echo Team**
